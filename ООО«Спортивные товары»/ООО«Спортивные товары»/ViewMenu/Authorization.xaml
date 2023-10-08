@@ -1,0 +1,61 @@
+﻿<Window x:Class="ООО_Спортивные_товары_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ООО_Спортивные_товары_"
+        mc:Ignorable="d"
+        
+       Title="Авторизация" 
+        Icon="/Resources/icon.ico"
+        ResizeMode="CanMinimize"
+        WindowStartupLocation="CenterScreen"
+        Height="550" 
+        Width="400" 
+        >
+    <Grid>
+
+
+        <StackPanel Margin="10 0 0 20"
+                    VerticalAlignment="Center"
+                    Width="250"
+                    Height="280"
+                    HorizontalAlignment="Center"
+
+                    >
+           
+
+
+            <Label 
+             HorizontalContentAlignment="Center" 
+               FontSize="15"
+               
+               FontStyle="Normal" FontFamily="Comic Sans MS"  Foreground="Black" >
+                Авторизация
+            </Label>
+
+
+
+            <Label  FontStyle="Normal" FontFamily="Comic Sans MS" >
+                Введите логин
+            </Label>
+            <TextBox Name="txbLogin" Background="#76e383" />
+
+            <Label FontStyle="Normal" FontFamily="Comic Sans MS" >
+                Введите пароль
+            </Label>
+            <PasswordBox MinHeight="10"
+                         Name="txbPassword"
+                         Background="#76e383"/>
+            <Button x:Name="Enter"
+                    Content="Вход"
+                     FontStyle="Normal" FontFamily="Comic Sans MS"
+                    HorizontalAlignment="Center"
+                    Margin="10"
+                    Width="100"
+                    Height="25"  Foreground="Black" Background="#498c51" Click="Enter_Click"
+                   />
+
+        </StackPanel>
+    </Grid>
+</Window>

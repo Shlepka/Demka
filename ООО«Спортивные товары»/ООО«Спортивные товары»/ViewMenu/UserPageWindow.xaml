@@ -1,0 +1,57 @@
+﻿<Window x:Class="ООО_Спортивные_товары_.ViewMenu.UserPageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ООО_Спортивные_товары_.ViewMenu"
+        mc:Ignorable="d"
+        Title="Меню" 
+        Height="411" 
+        FontFamily="Comic Sans MS"
+        MinHeight="300"
+        MinWidth="400"
+        Width="1000"
+         Icon="/Resources/icon.ico"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DataGrid x:Name="dgPatients" IsReadOnly="True" AutoGenerateColumns="False" Visibility="Visible" 
+                  HorizontalAlignment="Left" Height="315" Margin="20,40,0,0" VerticalAlignment="Top" Width="800"
+                  ItemsSource="{Binding Patients}" SelectedItem="{Binding SelectedPatients}"  >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="" Binding="{Binding }"/>
+                <DataGridTextColumn Header="" Binding="{Binding }"/>
+                <DataGridTextColumn Header="" Binding="{Binding }"/>
+                <DataGridTextColumn Header="" Binding="{Binding }"/>
+                <DataGridTextColumn Header="" Binding="{Binding }"/>
+                <DataGridTextColumn Header="" Binding="{Binding }"/>
+                <DataGridTextColumn Header="" Binding="{Binding }"/>
+                <DataGridTextColumn Header="" Binding="{Binding }"/>
+                <DataGridTextColumn Header="" Binding="{Binding }"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="0" Height="300" Width="150" Margin="0,40,10,55" HorizontalAlignment="Right"  >
+            <TextBox  Margin="5"                 
+                      TextChanged="TextBox_TextChanged"
+                       Grid.Row="0"
+                     Height="20"/>
+
+            <Button x:Name="btn_Add" Content="Добавить"  Margin="5"   Foreground="Black" Background="#498c51"
+                Width="100"
+                    Height="25" Click="btn_Add_Click"  />
+            <Button x:Name="btnEdit" Content="Редактировать"  Margin="5"   Foreground="Black" Background="#498c51"
+                  Width="100"
+                    Height="25" Click="btnEdit_Click" />
+            <Button x:Name="BtnDelete" Content="Удалить"   Margin="5" Foreground="Black" Background="#498c51"
+                 Width="100"
+                    Height="25" Click="BtnDelete_Click" />
+
+            <Button x:Name="BtnBack" Content="Назад"  Margin="5"
+                Width="100"
+                    Height="25" Click="BtnBack_Click" />
+     
+
+        </StackPanel>
+    </Grid>
+</Window>

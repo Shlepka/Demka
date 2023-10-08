@@ -1,0 +1,25 @@
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары».csproj.AssemblyReference.cache
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары».csproj.SuggestedBindingRedirects.cache
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\App.g.cs
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары»_MarkupCompile.cache
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары»_MarkupCompile.lref
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\bin\Debug\ООО«Спортивные товары».exe.config
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\bin\Debug\ООО«Спортивные товары».exe
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\bin\Debug\ООО«Спортивные товары».pdb
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары».g.resources
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО_Спортивные_товары_.Properties.Resources.resources
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары».csproj.GenerateResource.cache
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары».csproj.CoreCompileInputs.cache
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары».exe
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары».pdb
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ViewMenu\Authorization.g.cs
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ViewMenu\Authorization.baml
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\bin\Debug\EntityFramework.dll
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\bin\Debug\EntityFramework.SqlServer.dll
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\bin\Debug\EntityFramework.xml
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\bin\Debug\EntityFramework.SqlServer.xml
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\bin\Debug\ru\EntityFramework.resources.dll
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ViewMenu\UserPageWindow.g.cs
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары»_Content.g.cs
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ViewMenu\UserPageWindow.baml
+C:\Demka\ООО«Спортивные товары»\ООО«Спортивные товары»\obj\Debug\ООО«Спортивные товары».csproj.CopyComplete
